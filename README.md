@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Aloamy
-- 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a fellow coder.
+- 🌱 I’m currently based in Python
+- 💞️ Let me know anything that I could do.
 - 📫 How to reach me ...
-
-<!---
-Aloamy/Aloamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
